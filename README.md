@@ -4,6 +4,10 @@ Note-Taking-Local-Storage-App
 
 A web page application that writes and deletes notes taken on it, displays existent notes from previous executions and looks nice. My motivation for this project is to show case a practical application of the local storage API.
 
+# Screenshot of the Product
+
+![screenshot](https://imgur.com/AOJSj4d)
+
 ## Getting Started
 
 Clone the repo or copy desired text.
@@ -47,3 +51,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 - Inspired by one of the lectures from this course: [the Web Developer Bootcamp by Colt Steele on Udemy](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview). You can also see how the styling and HTML layout inspired my own solution.
 - Help on solving the issue with deleting notes dynamically on this StackOverflow post:https://stackoverflow.com/questions/51804538/web-deleting-chosen-list-items-with-the-localstorage-api-and-jquery
+
+## Live Demo
+
+[Here](https://note-taking-website.herokuapp.com/index.html). Go ahead and give it a spin! Enter some notes. Copy the URL. Exit the browser. Reopen it and greet your notes again.
+
+You will notice that I'm using Heroku as the host, given the name of the URL. That is because Heroku is an amazing product that I use to deploy most opf my projects. Furthermore, I will not be purchasing a domain on this website as I do not have the monetary funds available at this time.
