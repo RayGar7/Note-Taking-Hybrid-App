@@ -6,7 +6,7 @@ A web page application that writes and deletes notes taken on it, displays exist
 
 # Screenshot of the Product
 
-![screenshot](https://imgur.com/AOJSj4d)
+![screenshot](https://i.imgur.com/AOJSj4d.png)
 
 ## Getting Started
 
